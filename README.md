@@ -1,2 +1,2 @@
 # quick-challenges
-Solve a TECHNICAL INTERVIEW test for FRONTEND PROGRAMMER POSITION
+I solve a technical interview test for Frontend programmer position 
